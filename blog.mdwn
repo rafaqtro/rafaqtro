@@ -1,0 +1,1 @@
+[[!inline pages="blog/entry/*" show="10" actions="yes"]]

@@ -1,0 +1,7 @@
+[[!meta title="RQ"]]
+
+[[!sidebar content=""" Recent [[blog]] posts: [[!inline pages="blog/entry/*" show=3 feeds=no archive=yes]] """]]
+
+
+
+This blog is powered by [ikiwiki](http://ikiwiki.info).
